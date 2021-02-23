@@ -39,7 +39,7 @@ exports.createPages = async ({ actions }) => {
 };
 ```
 
-You can than simply include your open-graph image within your page. For example by using [react-helmet](https://github.com/nfl/react-helmet):
+You can then simply include your open-graph image within your page. For example by using [react-helmet](https://github.com/nfl/react-helmet):
 
 ```jsx
 <Helmet>
